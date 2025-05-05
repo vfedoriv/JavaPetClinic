@@ -1,0 +1,1 @@
+Infrastructure should contain Google Kubernetes Engine with two clusters (with deployed Redis and Kafka) 
